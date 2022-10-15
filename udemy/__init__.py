@@ -1,6 +1,6 @@
-# UdemyBot - A Simple Udemy Free Courses Scrapper
+# Un buscador de cursos gratis en Udemy
 
-# Copyright (C) 2021-Present Gautam Kumar <https://github.com/gautamajay52>
+# Copyright (C) 2022 JLCornejo <https://github.com/corval>
 
 import os
 
