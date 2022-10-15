@@ -40,7 +40,7 @@ class Scrapper:
         async with self.session(headers=self.head) as ass:
             soup = bs(
                 await self.__fetch_html(
-                    ass, "https://www.discudemy.com/language/spanish" + str(page)
+                    ass, "https://www.discudemy.com/all/" + str(page)
                 ),
                 "html5lib",
             )
